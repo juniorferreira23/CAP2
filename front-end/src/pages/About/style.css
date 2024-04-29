@@ -1,0 +1,17 @@
+.headerAbout {
+    background-color: green;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 10px;
+}
+
+.headerAbout ul {
+    display: flex;
+}
+
+.title{
+    padding: 10px 0;
+}
+

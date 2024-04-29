@@ -1,0 +1,36 @@
+.headerHome {
+    background-color: green;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 10px;
+}
+
+.headerHome ul {
+    display: flex;
+}
+
+header li{
+    color: white;
+    margin-left: 15px;
+}
+
+.card{
+    background-color: green;
+    width: 100%;
+    max-width: 300px;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+li, .menu{
+    list-style: none;
+    color: white;
+    text-decoration: none;
+}
+
+.menu:hover{
+    color: chartreuse;
+}
